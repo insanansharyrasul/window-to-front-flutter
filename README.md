@@ -1,6 +1,6 @@
 # window_to_front
 
-A new Flutter plugin project.
+A new Flutter plugin for https://github.com/insanansharyrasul/github_api
 
 ## Getting Started
 
